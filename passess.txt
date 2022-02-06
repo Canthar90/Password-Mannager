@@ -1,0 +1,8 @@
+
+['Kurczaki.com|', 'example@example.com|', 'asdwqe23s1']
+['Kurczaki.com|', 'example@example.com', 'asdwqe23s1']
+['Kurczaki.com|', 'example@example.com', 'asdwqe23s1']
+['Raid Shadow Legend|', 'example@gmail.com|', 'PWGkMBI\\y=?CHvc@mqT<7']
+['|', 'example@example.com', '']
+['Amassing|', 'example@example.com, '(hg7>VlZkMO?ru4et^FaX']
+['asd|', 'example@example.com', 'qhW`>6V)-uYgtfz^ysAmS']
